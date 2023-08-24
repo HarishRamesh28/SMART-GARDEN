@@ -34,10 +34,10 @@ The log file specified in the script command will capture any output or error me
 If the error persists or you encounter new issues, reviewing the log file (/path/to/logfile.log) will provide valuable information for troubleshooting.
 
 DHT11 thingsboard:
-GitHub - adesolasamuel/Raspberry-Pi-Thingsboard-Cloud: Comprehensive guide on how to send data from Raspberry Pi to Thingsboard IoT Cloud Platform
+[GitHub - adesolasamuel/Raspberry-Pi-Thingsboard-Cloud: Comprehensive guide on how to send data from Raspberry Pi to Thingsboard IoT Cloud Platform](https://github.com/adesolasamuel/Raspberry-Pi-Thingsboard-Cloud)
 
 Setting up as a local host:
-GitHub - adesolasamuel/RPi-Thingsboard-Cloud-Local-Server: How to set up Raspberry Pi Thingsboard Cloud Local Server
+[GitHub - adesolasamuel/RPi-Thingsboard-Cloud-Local-Server: How to set up Raspberry Pi Thingsboard Cloud Local Server](https://github.com/adesolasamuel/RPi-Thingsboard-Cloud-Local-Server)
 
 To set up the mcp8008 adc :
 Type in terminal :
