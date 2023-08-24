@@ -2,6 +2,7 @@ import paho.mqtt.client as mqtt
 import RPi.GPIO as GPIO
 import json
 
+#Enter Device details 
 THINGSBOARD_HOST = '172.27.251.86'
 ACCESS_TOKEN = 'smartgarden2'
 
