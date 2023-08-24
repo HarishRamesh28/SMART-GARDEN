@@ -115,6 +115,7 @@ class SensorNode:
         self.mqtt_client.cleanup()
 
 if __name__ == "__main__":
+    #Enter Devices details 
     THINGSBOARD_BROKER = "172.27.251.86"
     THINGSBOARD_PORT = 1883
     ACCESS_TOKEN = "smartgarden2"
